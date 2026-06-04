@@ -1,0 +1,42 @@
+ ----------------   CP     1,     Type (3,-3)   ----------------
+ Corresponding nucleus:    33(H )
+ Position (Bohr):        4.423313468029   -3.872091056793    2.651471022964
+ Position (Angstrom):    2.340716683961   -2.049022345796    1.403098040722
+ Density of all electrons:  0.3826240767E+00
+ Density of Alpha electrons:  0.1910872093E+00
+ Density of Beta electrons:  0.1915368674E+00
+ Spin density of electrons: -0.4496580542E-03
+ Potential energy density V(r): -0.3095813513E+01
+ Energy density E(r) or H(r): -0.3088742551E+01
+ Sign(lambda2)*rho: -0.3826240767E+00
+ van der Waals potential (probe atom: C ):  0.1681569779E+24 kcal/mol
+ Delta-g (under promolecular approximation):  0.1170497790E+00
+ ESP from nuclear charges:  0.4494739546E+02
+ ----------------   CP     2,     Type (3,-3)   ----------------
+ Corresponding nucleus:    39(H )
+ Position (Bohr):       -9.229271031901   -1.738557009177    3.565768968475
+ Position (Angstrom):   -4.883919903329   -0.920004749112    1.886923677462
+ Density of all electrons:  0.3668846154E+00
+ Density of Alpha electrons:  0.1831677300E+00
+ Density of Beta electrons:  0.1837168854E+00
+ Spin density of electrons: -0.5491553356E-03
+ Potential energy density V(r): -0.2908458464E+01
+ Energy density E(r) or H(r): -0.2901840137E+01
+ Sign(lambda2)*rho: -0.3668846154E+00
+ van der Waals potential (probe atom: C ):  0.5976840793E+23 kcal/mol
+ Delta-g (under promolecular approximation):  0.1185378907E+00
+ ESP from nuclear charges:  0.3912445393E+02
+ ----------------   CP     3,     Type (3,-3)   ----------------
+ Corresponding nucleus:    31(S )
+ Position (Bohr):       -4.697457181938   -2.004998660250    4.050678471135
+ Position (Angstrom):   -2.485787289874   -1.060999598896    2.143526735620
+ Density of all electrons:  0.2415567551E+04
+ Density of Alpha electrons:  0.1207797080E+04
+ Density of Beta electrons:  0.1207770471E+04
+ Spin density of electrons:  0.2660955665E-01
+ Potential energy density V(r): -0.1019163761E+08
+ Energy density E(r) or H(r): -0.1018309443E+08
+ Sign(lambda2)*rho: -0.2415567551E+04
+ van der Waals potential (probe atom: C ):  0.2690193936E+79 kcal/mol
+ Delta-g (under promolecular approximation):  0.1438415916E-01
+ ESP from nuclear charges:  0.8551453496E+07

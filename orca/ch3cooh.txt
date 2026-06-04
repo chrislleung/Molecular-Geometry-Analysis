@@ -1,0 +1,9 @@
+Electronic energy                ...   -228.79778060 Eh
+Zero point energy                ...      0.06153522 Eh      38.61 kcal/mol
+Thermal vibrational correction   ...      0.00091665 Eh       0.58 kcal/mol
+Thermal rotational correction    ...      0.00141627 Eh       0.89 kcal/mol
+Thermal translational correction ...      0.00141627 Eh       0.89 kcal/mol
+-----------------------------------------------------------------------
+Total thermal energy                   -228.73249618 Eh
+-----------------------------------------------------------------------
+Total Enthalpy                    ...   -228.73155197 Eh
