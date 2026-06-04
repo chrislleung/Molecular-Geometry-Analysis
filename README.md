@@ -3,7 +3,8 @@
 This repository contains a suite of Java-based tools developed in 2023 to automate and process Density Functional Theory (DFT) calculations. 
 
 These tools were specifically built to support the computational research and geometry analysis detailed in the published paper:
-> **"DFT investigations of phenyldithiafulvene dimers at different oxidation states."** > *[Authors list, Journal Name, Year. DOI: insert link here]*
+> **"DFT investigations of phenyldithiafulvene dimers at different oxidation states."
+Liam H. Britt, Ramin Eradeh, Chris Leung, Yuming Zhao. Physical Chemistry Chemical Physics, 2023. DOI: https://doi.org/10.1039/d3cp04122k*
 
 ## 📌 Overview
 When handling complex molecular geometries and multiple oxidation states, manually preparing input files and extracting geometric parameters becomes highly tedious and prone to error. This project serves as a pipeline to automate the manipulation of coordinate files, format inputs for computational chemistry software (like ORCA and Gaussian), and calculate highly specific structural properties using linear algebra.
